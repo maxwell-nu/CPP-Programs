@@ -1,6 +1,6 @@
 //Name: Maxwell Mwangi
 //Reg No: BCS-05-0001/2025
-//Purpose: Calculates Pay and Prints a PaySlip
+//Purpose: Calculates Pay and Prints a PaySlip With a Rate Per Hour of 10
 
 #include <iostream>
 using namespace std;
