@@ -1,3 +1,7 @@
+//Name: Maxwell Mwangi
+//Reg No: BCS-05-0001/2025
+//Purpose: Calculates Pay and Prints a PaySlip
+
 #include <iostream>
 using namespace std;
 
