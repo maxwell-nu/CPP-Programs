@@ -8,3 +8,5 @@ C++ Repo for Weekly Assignments
 - [Employee Net Salary](https://github.com/maxwell-nu/CPP-Programs/blob/main/Employee_net_salary-Week%203.cpp)
 - [Payroll System](https://github.com/maxwell-nu/CPP-Programs/blob/main/Payroll_System-Week3.cpp)
 - [Water Billing System](https://github.com/maxwell-nu/CPP-Programs/blob/main/Water_Billing_System-Week3.cpp)
+## Week 4
+- [Employee Bonus System](https://github.com/maxwell-nu/CPP-Programs/blob/main/Employee_bonus_system-Week4.cpp)
