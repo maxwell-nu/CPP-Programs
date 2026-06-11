@@ -14,3 +14,5 @@ C++ Repo for Weekly Assignments
 - [Password Verification System](https://github.com/maxwell-nu/CPP-Programs/blob/main/Password_verification_system_do-while_loop-Week4.cpp)
 ## Week 5
 - [Hotel Management System](https://github.com/maxwell-nu/CPP-Programs/blob/main/hotel_management_system-Week5.cpp)
+## Week 6
+- [Library Book Management System](https://github.com/maxwell-nu/CPP-Programs/blob/main/library_book_management_system-Week6.cpp)
