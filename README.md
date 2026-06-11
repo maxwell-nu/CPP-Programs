@@ -14,3 +14,4 @@ C++ Repo for Weekly Assignments
 - [Password Verification System](https://github.com/maxwell-nu/CPP-Programs/blob/main/Password_verification_system_do-while_loop-Week4.cpp)
 ## Week 5
 - [Weekly Revenue Tracker](https://github.com/maxwell-nu/CPP-Programs/blob/main/weekly_revenue_tracker-Week5.cpp)
+- [Romm Occupancy](https://github.com/maxwell-nu/CPP-Programs/blob/main/Room_occupancy-Week5.cpp)
