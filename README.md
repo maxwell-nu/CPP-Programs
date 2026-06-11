@@ -12,3 +12,5 @@ C++ Repo for Weekly Assignments
 - [Employee Bonus System](https://github.com/maxwell-nu/CPP-Programs/blob/main/Employee_bonus_system-Week4.cpp)
 - [Savings Withdrawal System](https://github.com/maxwell-nu/CPP-Programs/blob/main/Savings_Withdrawal_System_while_loop-Week4.cpp)
 - [Password Verification System](https://github.com/maxwell-nu/CPP-Programs/blob/main/Password_verification_system_do-while_loop-Week4.cpp)
+## Week 5
+- [Weekly Revenue Tracker](https://github.com/maxwell-nu/CPP-Programs/blob/main/weekly_revenue_tracker-Week5.cpp)
