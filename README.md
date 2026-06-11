@@ -13,4 +13,4 @@ C++ Repo for Weekly Assignments
 - [Savings Withdrawal System](https://github.com/maxwell-nu/CPP-Programs/blob/main/Savings_Withdrawal_System_while_loop-Week4.cpp)
 - [Password Verification System](https://github.com/maxwell-nu/CPP-Programs/blob/main/Password_verification_system_do-while_loop-Week4.cpp)
 ## Week 5
-
+- [Hotel Management System](https://github.com/maxwell-nu/CPP-Programs/blob/main/hotel_management_system-Week5.cpp)
