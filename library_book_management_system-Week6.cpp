@@ -32,7 +32,7 @@ class Book {
     void displayDetails(){
 
         cout << "\nBook Title: " << bookTitle << endl
-        << "Author: " << author << endl << "Borrowed: " << borrowed << endl << "Available Copies: " << available << endl;
+        << "Author: " << author << endl << "Borrowed: " << borrowed << endl << "Remaining Copies: " << available << endl;
     };
 
 };
