@@ -16,3 +16,4 @@ C++ Repo for Weekly Assignments
 - [Hotel Management System](https://github.com/maxwell-nu/CPP-Programs/blob/main/hotel_management_system-Week5.cpp)
 ## Week 6
 - [Library Book Management System](https://github.com/maxwell-nu/CPP-Programs/blob/main/library_book_management_system-Week6.cpp)
+- [Student Fee Management System](https://github.com/maxwell-nu/CPP-Programs/blob/main/student_fee_management_system-Week6.cpp)
