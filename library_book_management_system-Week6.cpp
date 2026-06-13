@@ -4,12 +4,13 @@
 
 #include <iostream>
 using namespace std;
+int  available, borrowed;
 
 class Book {
 
     public:
     string bookTitle, author;
-    int availableCopies, available, borrowed;
+    int availableCopies;
 
 
     void inputDetails(){
