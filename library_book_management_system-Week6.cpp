@@ -4,7 +4,7 @@
 
 #include <iostream>
 using namespace std;
-int  available, borrowed;
+int available, borrowed;
 
 class Book {
 
