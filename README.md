@@ -19,4 +19,4 @@ C++ Repo for Weekly Assignments
 - [Student Fee Management System](https://github.com/maxwell-nu/CPP-Programs/blob/main/student_fee_management_system-Week6.cpp)
 ## Week 8
 - [Room Booking System](https://github.com/maxwell-nu/CPP-Programs/blob/main/Hotel_Room_Booking_System-Week8.cpp)
-- [Bank Account System](https://github.com/maxwell-nu/CPP-Programs/blob/main/bank_account_system-Week8)
+- [Bank Account System](https://github.com/maxwell-nu/CPP-Programs/blob/main/bank_account_system-Week8.cpp)
