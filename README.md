@@ -20,3 +20,5 @@ C++ Repo for Weekly Assignments
 ## Week 8
 - [Room Booking System](https://github.com/maxwell-nu/CPP-Programs/blob/main/Hotel_Room_Booking_System-Week8.cpp)
 - [Bank Account System](https://github.com/maxwell-nu/CPP-Programs/blob/main/bank_account_system-Week8.cpp)
+## Week 9
+- [School Management System](https://github.com/maxwell-nu/CPP-Programs/blob/main/school_management_system-week9.cpp)
