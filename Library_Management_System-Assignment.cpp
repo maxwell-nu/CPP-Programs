@@ -1,3 +1,7 @@
+//Name: Maxwell Mwangi
+//Reg No: BCS-05-0001/2025
+//Purpose: Library Management System using inheritance and constructors
+
 #include<iostream>
 using namespace std;
 
