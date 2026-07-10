@@ -24,4 +24,4 @@ C++ Repo for Weekly Assignments
 - [School Management System](https://github.com/maxwell-nu/CPP-Programs/blob/main/school_management_system-week9.cpp)
 - [Vehicle System](https://github.com/maxwell-nu/CPP-Programs/blob/main/vehicle_system-week9.cpp)
 ## Assignment
-- [Library Management System](https://github.com/maxwell-nu/CPP-Programs/blob/main/Library_Management_System-Assignment.cpp)
+- [Library Management System](https://github.com/maxwell-nu/CPP-Programs/blob/main/Library_Management_System-Assignment-Week9.cpp)
