@@ -1,5 +1,6 @@
 # CPP-Programs
 C++ Repo for Weekly Assignments
+# INDEX
 
 ## Week 2
 - [Overdue Library Books](https://github.com/maxwell-nu/CPP-Programs/blob/main/Overdue_library_books-Week%202.cpp)
@@ -26,6 +27,8 @@ C++ Repo for Weekly Assignments
 ## Assignment
 - [Library Management System](https://github.com/maxwell-nu/CPP-Programs/blob/main/Library_Management_System-Assignment-Week9.cpp)
 ## Week 10
+- [Payment System](https://github.com/maxwell-nu/CPP-Programs/blob/main/payment_system_polymorphism-Week10.cpp)
+- [Shape Drawing](https://github.com/maxwell-nu/CPP-Programs/blob/main/shape_drawing_system-polymorphism-Week10.cpp)
 ## Week 11
 - [Employee Data Protection System](https://github.com/maxwell-nu/CPP-Programs/blob/main/employee_data_protection_system-encapsulation-Week11.cpp)
 - [Student Fee Security System](https://github.com/maxwell-nu/CPP-Programs/blob/main/student_fee_security_system-encapsulation-Week11.cpp)
