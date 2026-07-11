@@ -25,3 +25,7 @@ C++ Repo for Weekly Assignments
 - [Vehicle System](https://github.com/maxwell-nu/CPP-Programs/blob/main/vehicle_system-week9.cpp)
 ## Assignment
 - [Library Management System](https://github.com/maxwell-nu/CPP-Programs/blob/main/Library_Management_System-Assignment-Week9.cpp)
+## Week 10
+## Week 11
+- [Employee Data Protection System](https://github.com/maxwell-nu/CPP-Programs/blob/main/employee_data_protection_system-encapsulation-Week11.cpp)
+- [Student Fee Security System](https://github.com/maxwell-nu/CPP-Programs/blob/main/student_fee_security_system-encapsulation-Week11.cpp)
