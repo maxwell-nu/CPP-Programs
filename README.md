@@ -34,3 +34,4 @@ C++ Repo for Weekly Assignments
 - [Student Fee Security System](https://github.com/maxwell-nu/CPP-Programs/blob/main/student_fee_security_system-encapsulation-Week11.cpp)
 ## Week 12
 - [Hotel Management System - Abstraction](https://github.com/maxwell-nu/CPP-Programs/blob/main/hospital_management_system-abstraction-Week12.cpp)
+- [Shape Area System - Abstraction](https://github.com/maxwell-nu/CPP-Programs/blob/main/shape_area_system-abstraction-Week12.cpp)
