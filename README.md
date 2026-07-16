@@ -32,3 +32,5 @@ C++ Repo for Weekly Assignments
 ## Week 11
 - [Employee Data Protection System](https://github.com/maxwell-nu/CPP-Programs/blob/main/employee_data_protection_system-encapsulation-Week11.cpp)
 - [Student Fee Security System](https://github.com/maxwell-nu/CPP-Programs/blob/main/student_fee_security_system-encapsulation-Week11.cpp)
+## Week 12
+- [Hotel Management System - Abstraction](https://github.com/maxwell-nu/CPP-Programs/blob/main/hospital_management_system-abstraction-Week12.cpp)
