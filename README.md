@@ -35,3 +35,7 @@ C++ Repo for Weekly Assignments
 ## Week 12
 - [Hotel Management System - Abstraction](https://github.com/maxwell-nu/CPP-Programs/blob/main/hospital_management_system-abstraction-Week12.cpp)
 - [Shape Area System - Abstraction](https://github.com/maxwell-nu/CPP-Programs/blob/main/shape_area_system-abstraction-Week12.cpp)
+## Week 13
+- [Sales Transactions Reader](https://github.com/maxwell-nu/CPP-Programs/blob/main/sales_transactions-week13.cpp)
+- [Student Results Reader](https://github.com/maxwell-nu/CPP-Programs/blob/main/student_examination_results-week13.cpp)
+- [Borrowed Books Tracker](https://github.com/maxwell-nu/CPP-Programs/blob/main/books_borrowed_tracker-week13.cpp)
